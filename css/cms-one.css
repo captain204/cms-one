@@ -1,0 +1,77 @@
+/*.........#428bca........General styles...............................................*/
+
+
+
+body{
+
+	font-family: Georgia, Times, helvetica, sans-serif, arial;
+	color: #555;
+}
+
+a{
+	text-decoration:none;
+}
+a:hover{
+
+	color: lightblue;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6{
+
+	margin-top: 0px;
+	font-family:helvetica, arial, sans-serif;
+	font-weight: normal;
+	color: #333;
+}
+
+
+
+
+small{
+
+	font-size:20px;
+}
+
+/*#428bca Navbar-styles*/
+
+.navbar{
+
+	background: #428bca;
+}
+
+
+
+
+
+
+
+
+#page-title{
+
+	font-weight: 4em;
+	font-size: 40px;
+	padding: 20px;
+}
+
+#post a{
+	text-decoration: none;
+}
+
+#about{
+	background:silver; 
+	padding: 10px; 
+	width: 300px;
+	margin-left: 100px;
+	color: white;
+}
+#categories{
+	padding: 10px; 
+	width: 300px;
+	margin-left: 100px;	
+}
+
